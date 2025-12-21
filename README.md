@@ -1,4 +1,4 @@
-# engineering-prompt-course
+# Engineering-Prompt-Course
 Trabalho extensionista para a Universidade de Fortaleza
 
 # Website:
